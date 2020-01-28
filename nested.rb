@@ -16,8 +16,6 @@ def hopper
         }
       return grace_hopper.default
      }
-     
-    end
 
 
 end
