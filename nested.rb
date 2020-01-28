@@ -29,7 +29,7 @@ def alan_kay_is_known_for
           :languages => ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :known_for => "Object Orientation",
+           programmer_hash[:grace_hopper] => "Object Orientation",
           :languages => ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
